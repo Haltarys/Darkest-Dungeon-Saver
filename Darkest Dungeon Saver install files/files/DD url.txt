@@ -1,0 +1,6 @@
+Indiquez dans ce fichier le chemin d'accès à l'application Darkest Dungeon.
+Emplacement par défaut : "C:\Program Files (x86)\Steam\steamapps\common\DarkestDungeon\_windows\Darkest.exe"
+Ou ""C:\Program Files (x86)\Steam\steamapps\common\DarkestDungeon\_windowsnosteam\Darkest.exe"
+
+NB : il est possible qu'à cause d'une permission manquante, DD Saver n'ait pas l'autorisation pour lancer le jeu. Cependant, vous pouvez le lancer à partir d'un raccourci.
+Exemple : "C:\Users\USERNAME\Desktop\Darkest Dungeon.lnk" ou ""C:\Users\USERNAME\Desktop\Darkest Dungeon.url"

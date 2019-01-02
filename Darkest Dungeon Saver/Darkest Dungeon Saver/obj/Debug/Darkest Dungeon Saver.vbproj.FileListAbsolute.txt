@@ -1,0 +1,24 @@
+D:\Users\Haltarys\Desktop\Darkest Dungeon Saver\Darkest Dungeon Saver\bin\Debug\Darkest Dungeon Saver.exe.config
+D:\Users\Haltarys\Desktop\Darkest Dungeon Saver\Darkest Dungeon Saver\bin\Debug\Darkest Dungeon Saver.exe
+D:\Users\Haltarys\Desktop\Darkest Dungeon Saver\Darkest Dungeon Saver\bin\Debug\Darkest Dungeon Saver.pdb
+D:\Users\Haltarys\Desktop\Darkest Dungeon Saver\Darkest Dungeon Saver\bin\Debug\Darkest Dungeon Saver.xml
+D:\Users\Haltarys\Desktop\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest Dungeon Saver.vbprojAssemblyReference.cache
+D:\Users\Haltarys\Desktop\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest_Dungeon_Saver.Form1.resources
+D:\Users\Haltarys\Desktop\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest_Dungeon_Saver.Resources.resources
+D:\Users\Haltarys\Desktop\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest Dungeon Saver.vbproj.GenerateResource.cache
+D:\Users\Haltarys\Desktop\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest Dungeon Saver.vbproj.CoreCompileInputs.cache
+D:\Users\Haltarys\Desktop\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest Dungeon Saver.exe
+D:\Users\Haltarys\Desktop\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest Dungeon Saver.xml
+D:\Users\Haltarys\Desktop\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest Dungeon Saver.pdb
+D:\Users\Haltarys\Documents\Informatique\VB.NET\Darkest Dungeon Saver\Darkest Dungeon Saver\bin\Debug\Darkest Dungeon Saver.exe.config
+D:\Users\Haltarys\Documents\Informatique\VB.NET\Darkest Dungeon Saver\Darkest Dungeon Saver\bin\Debug\Darkest Dungeon Saver.exe
+D:\Users\Haltarys\Documents\Informatique\VB.NET\Darkest Dungeon Saver\Darkest Dungeon Saver\bin\Debug\Darkest Dungeon Saver.pdb
+D:\Users\Haltarys\Documents\Informatique\VB.NET\Darkest Dungeon Saver\Darkest Dungeon Saver\bin\Debug\Darkest Dungeon Saver.xml
+D:\Users\Haltarys\Documents\Informatique\VB.NET\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest Dungeon Saver.vbprojAssemblyReference.cache
+D:\Users\Haltarys\Documents\Informatique\VB.NET\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest_Dungeon_Saver.Form1.resources
+D:\Users\Haltarys\Documents\Informatique\VB.NET\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest_Dungeon_Saver.Resources.resources
+D:\Users\Haltarys\Documents\Informatique\VB.NET\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest Dungeon Saver.vbproj.GenerateResource.cache
+D:\Users\Haltarys\Documents\Informatique\VB.NET\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest Dungeon Saver.vbproj.CoreCompileInputs.cache
+D:\Users\Haltarys\Documents\Informatique\VB.NET\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest Dungeon Saver.exe
+D:\Users\Haltarys\Documents\Informatique\VB.NET\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest Dungeon Saver.xml
+D:\Users\Haltarys\Documents\Informatique\VB.NET\Darkest Dungeon Saver\Darkest Dungeon Saver\obj\Debug\Darkest Dungeon Saver.pdb
